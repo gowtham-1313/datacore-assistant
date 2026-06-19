@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+chromadb
+sentence-transformers
+python-dotenv
+requests
+pypdf
+python-multipart
+httpx
+openai
+anthropic
+PyPDF2
